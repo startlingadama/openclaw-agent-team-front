@@ -174,3 +174,10 @@ src/
 * Tailwind CSS 4 and shadcn/ui (Radix)
 * react-markdown with remark-gfm
 * Lucide icons, Recharts, Sonner
+
+---
+
+## Author
+
+Developed by **Adama Coulibaly**  
+AI Engineer | Finance Enthusiast
